@@ -1,4 +1,4 @@
-module github.com/bajpeyeerohit/Go-Lang.gitg.git
+module github.com/bajpeyeerohit/Go-Lang
 
 go 1.24.4
 
